@@ -1,0 +1,25 @@
+{
+    "layers": [
+      {
+        "layer_name": "Lakes",
+        "layer_file": "map_layer_lakes.zip",
+        "longitude": 15.10,
+        "latitude": 28.25,
+        "id": 0
+      },
+      {
+        "layer_name": "Roads",
+        "layer_file": "vector_layer_roads.zip",
+        "longitude": 4.74,
+        "latitude": 30.58,
+        "id": 1
+      },
+      {
+        "layer_name": "Mountins",
+        "layer_file": "mapping_layer_mountains.rar",
+        "longitude": 40.10,
+        "latitude": 11.01,
+        "id": 3
+      }
+    ]
+  }
